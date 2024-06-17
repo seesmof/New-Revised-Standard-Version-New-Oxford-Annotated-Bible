@@ -6,4 +6,4 @@
 
 > Recommended to read in two-column (two-page or landscape or horizontal) layout (orientation). Microsoft Edge web browser has this feature built-in, some other web browsers might too. See example why its useful and how to enable it in Edge in the image below.
 
-![Album_Layout](https://i.imgur.com/YX6Xs0Z.png)
+![Album_Layout](https://i.imgur.com/ngUHw9J.png)
